@@ -87,32 +87,26 @@ header{
     padding-bottom: 6px;
 }
 header .logo{
-    position: relative;
-    font-size: 25px;
+    font-size: 2.5rem;
     font-weight: bolder;
     color: #666;
-    right: 100px;
-    height: 29px;
 }
-header .logo b {
-    font-size: 35px;
-}
+
 header .logo i{
-    padding: 0.1rem;
-    font-size: 1px;
+    padding: .5rem;
     color:var(--red);
+}
+header .logo b{
+    font-size: 38px;
 }
 
 header .navbar a{
-    position: relative;
     font-size: 2rem;
     margin-left: 2rem;
     color: #666;
-    top: 10px;
 }
 header .navbar a:hover{
     color:var(--red)
-    
 }
 
 #menu-bar{
